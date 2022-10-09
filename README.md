@@ -1,1 +1,1 @@
-# Projects
+The following repository contains projects .
